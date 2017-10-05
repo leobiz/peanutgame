@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NinjaPeanut2</string>
+    <string name="level_label">Level:</string>
+    <string name="score_label">Score:</string>
+    <string name="max_number">99</string>
+    <string name="play_game">Play Game</string>
+    <string name="popping_pin">pin</string>
+    <string name="start_game">Start game</string>
+</resources>
